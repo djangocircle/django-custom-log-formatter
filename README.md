@@ -5,6 +5,7 @@ Here is step by step explanation on <a href="https://djangocircle.com/how-to-cre
 If you wish to implement the logs with your own choice of default information in it. It is implemented in this project.
 
 For example:
+
 1)Info Log Format:
 ```
   <Log Level>: <Message> - <File Location>:<Line No>
